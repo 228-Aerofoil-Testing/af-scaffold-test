@@ -1,0 +1,11 @@
+{
+	"deploymentDefaultName": "af-scaffold-test",
+	"todos": [],
+	"scaffoldScriptLocation": "./scaffold.js",
+	"scaffoldFolderLocation": "./source",
+	"databaseRequirements": [],
+	"deploymentType": "test",
+	"requiredExtensions": [],
+	"version": "0.0.0",
+	"aerofoilVersion": "0.4.2"
+}
