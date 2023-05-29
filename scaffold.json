@@ -2,7 +2,6 @@
 	"deploymentDefaultName": "af-scaffold-test",
 	"todos": [],
 	"scaffoldScriptLocation": "./scaffold.js",
-	"scaffoldFolderLocation": "./source",
 	"databaseRequirements": [],
 	"deploymentType": "test",
 	"requiredExtensions": [],
