@@ -6,5 +6,6 @@
 	"deploymentType": "test",
 	"requiredExtensions": [],
 	"version": "0.0.0",
-	"aerofoilVersion": "0.4.2"
+	"aerofoilVersion": "0.4.2",
+	"name": "af-scaffold-test"
 }
