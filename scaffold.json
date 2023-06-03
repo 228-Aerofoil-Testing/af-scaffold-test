@@ -1,8 +1,17 @@
 {
 	"deploymentDefaultName": "af-scaffold-test",
 	"todos": [],
-	"scaffoldScriptLocation": "./scaffold.js",
-	"databaseRequirements": [],
+	"scaffoldScriptLocation": "./scaffold.mjs",
+	"databaseRequirements": [
+		{
+			"key": "test",
+			"query": {
+				"languageType": "TEST_VALUE_EXPECT_TO_BE_BROKEN",
+				"databaseType": "TEST_VALUE_EXPECT_TO_BE_BROKEN",
+				"connectionType": "TEST_VALUE_EXPECT_TO_BE_BROKEN"
+			}
+		}
+	],
 	"deploymentType": "test",
 	"requiredExtensions": [],
 	"version": "0.0.0",
